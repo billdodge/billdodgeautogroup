@@ -2,6 +2,7 @@ Bill Dodge Auto Group Web Issues Tracker:
 ==================
 
 To Start using the issue tracker and feture request signup for a github account at the link below. 
+
 https://github.com/signup/free
 
 To create a new issue or feature request :
