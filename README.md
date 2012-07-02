@@ -14,7 +14,7 @@ To create a new issue or feature request :
 3. If it does add comments or new details by clicking on issue / feature request
 
 4. If no matching issue / feature request exists click new issue
-[[readme.png]]
+![New issue button](readme_image.png)
 
 5. Enter a title with issue / feature name
 
